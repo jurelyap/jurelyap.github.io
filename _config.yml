@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Jurel-Headshot.jpg"
   name             : "JUREL YAP"
   pronouns         : "he/him"  
   bio              : "PhD Candidate at Griffith University and Statistician"
   location         : "Brisbane, Australia"
-  employer         : "School of Criminology and Criminal \n Justice, Griffith University"
+  employer         : "School of Criminology and Criminal | Justice, Griffith University"
   uri              : "jurelyap.github.io"
   email            : "yapjurel@gmail.com/jurel.yap@alumni.ateneo.edu" 
 
