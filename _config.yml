@@ -27,7 +27,7 @@ author:
   bio              : "PhD Candidate at Griffith University and Statistician"
   location         : "Brisbane, Australia"
   employer         : "School of Criminology and<br />Criminal Justice, Griffith University"
-  uri              : "jurelyap.github.io"
+  uri              : #"jurelyap.github.io"
   email            : "yapjurel@gmail.com OR jurel.yap@alumni.ateneo.edu" 
 
   # Academic websites
