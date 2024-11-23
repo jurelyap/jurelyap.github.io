@@ -13,4 +13,4 @@ redirect_from:
 
 Jurel's PhD research investigates the impact of high local imprisonment rates on young people at the community level in Australia. He uses linked administrative datasets at a small geographical level to conduct robust statistical analyses and explore these relationships.
 
-You may find his current research on his [Google Scholar profile](https://scholar.google.com/citations?user=UkVPD_wAAAAJ&hl=en) and visit his [Linkedin](https://www.linkedin.com/in/jurelyap/).
+You can explore his current research on his [Google Scholar profile](https://scholar.google.com/citations?user=UkVPD_wAAAAJ&hl=en) and connect with him on [Linkedin](https://www.linkedin.com/in/jurelyap/).
