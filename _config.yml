@@ -26,9 +26,9 @@ author:
   pronouns         : "he/him"  
   bio              : "PhD Candidate at Griffith University and Statistician"
   location         : "Brisbane, Australia"
-  employer         : "School of Criminology and Criminal <br /> Justice, Griffith University"
+  employer         : "School of Criminology and <br /> Criminal Justice, Griffith University"
   uri              : "jurelyap.github.io"
-  email            : "yapjurel@gmail.com/jurel.yap@alumni.ateneo.edu" 
+  email            : "yapjurel@gmail.com OR jurel.yap@alumni.ateneo.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jurelyap/"
+  linkedin         : "jurelyap/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
