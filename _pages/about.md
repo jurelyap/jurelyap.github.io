@@ -12,3 +12,5 @@ redirect_from:
  His core research interests are in the intersection of quantitative methods and social science research, applied to geographical and survey data. He uses his advanced data analysis skills to explore a variety of research areas and has published articles on topics like crime and punishment, political economy, political violence, youth, and misinformation, with a particular focus on the Philippines.
 
 Jurel's PhD research investigates the impact of high local imprisonment rates on young people at the community level in Australia. He uses linked administrative datasets at a small geographical level to conduct robust statistical analyses and explore these relationships.
+
+You may find his current research on his [Google Scholar profile](https://scholar.google.com/citations?user=UkVPD_wAAAAJ&hl=en) and visit his [Linkedin](https://www.linkedin.com/in/jurelyap/).
