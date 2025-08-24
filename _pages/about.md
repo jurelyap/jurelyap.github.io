@@ -11,8 +11,12 @@ redirect_from:
 
 His core research interests are in the intersection of quantitative methods and social science research, applied to geographical and survey data. He uses his advanced data analysis skills to explore a variety of research areas and has published articles on topics like crime and punishment, political economy, political violence, youth, and misinformation, with a particular focus on the Philippines.
 
-Jurel's PhD research investigates the impact of high local imprisonment rates on young people at the community level in Australia. He uses linked administrative datasets at a small geographical level to conduct robust statistical analyses and explore these relationships.
+Jurel's PhD research investigates the impact of high local imprisonment rates on young people at the community level in Australia. He uses linked administrative datasets at a small geographical level to explore interesting relationships with data.
 
-Jurel finished his Master of Science (Statistics) from the University of the Philippines Diliman. He earned a double bachelor's degree in Mathematics and Development Studies, with a minor in Economics, from Ateneo de Manila University, where he was an active student leader.
+Jurel finished his Master of Science (Statistics) from the University of the Philippines Diliman. He earned a double bachelor's degree in Mathematics and Development Studies, with a minor in Economics, from Ateneo de Manila University (Quezon City, Philippines), where he was an active student leader.
 
 You can explore his current research on his [Google Scholar profile](https://scholar.google.com/citations?user=UkVPD_wAAAAJ&hl=en) and connect with him on [Linkedin](https://www.linkedin.com/in/jurelyap/).
+
+Read his most recent article here:
+[Punitiveness and atrocity: Why do some Filipinos support mass violence?](https://journals.sagepub.com/doi/10.1177/14624745241304967)
+
