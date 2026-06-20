@@ -23,8 +23,8 @@ Read his most recent article here:
 Ongoing work:
 
 - Finalising PhD dissertation on high imprisonment's impacts on young people in Australia.
-- "Does Imprisonment Disrupt Learning?" — under review
-- "Vote-Buying in the Philippines" — under review
+- "Does Imprisonment Disrupt Learning?" — under Journal review
+- "Vote-Buying in the Philippines" — under  Journal review
 
 
 
