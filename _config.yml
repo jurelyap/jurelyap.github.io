@@ -26,9 +26,9 @@ author:
   avatar           : "Jurel-Headshot.jpg"
   name             : "JUREL YAP"
   pronouns         : "he/him"  
-  bio              : "PhD Candidate at Griffith University, Statistician"
+  bio              : "Quantitative Social Scientist | PhD Candidate, Griffith University | Non-Resident Research Fellow, Ateneo Policy Center"
   location         : "Brisbane, Australia"
-  employer         : "School of Criminology and<br />Criminal Justice, Griffith University"
+  employer         : #"School of Criminology and<br />Criminal Justice, Griffith University"
   uri              : #"jurelyap.github.io"
   email            : "yapjurel@gmail.com OR jurel.yap@alumni.ateneo.edu" 
 
