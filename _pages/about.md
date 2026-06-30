@@ -17,7 +17,8 @@ Jurel finished his Master of Science (Statistics) from the University of the Phi
 
 You can explore his current research on his [Google Scholar profile](https://scholar.google.com/citations?user=UkVPD_wAAAAJ&hl=en) and connect with him on [Linkedin](https://www.linkedin.com/in/jurelyap/). Kindly reach out for any research collaborations, teaching opportunities or questions about his research via [yapjurel@gmail.com](yapjurel@gmail.com). Looking ahead, Jurel looks to return home to teach and research by Q4 2026 to Q1 2027. 
 
-Read his most recent article here:
+Read his most recent articles here:
+[Entrenchment and Expansion: How Political DynastiesAffect Poverty Within and Between Philippine Provinces](https://animorepository.dlsu.edu.ph/apssr/vol26/iss2/2/)
 [Punitiveness and atrocity: Why do some Filipinos support mass violence?](https://journals.sagepub.com/doi/10.1177/14624745241304967)
 
 Ongoing work:
